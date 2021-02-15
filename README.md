@@ -2,6 +2,11 @@
 
 This is a repository to test out the manim library.
 
+## Run with Binder
+
+If you just want to play with the code in the noteboos, you can just run this
+Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedricgeissmann/wfw-16.git/HEAD?filepath=notebooks)
+
 ## Installation
 
 The installation process can be found in the
